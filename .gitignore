@@ -12,3 +12,6 @@
 *.fls
 *.fdb_latexmk
 
+*.synctex.gz
+
+.DC_Store
